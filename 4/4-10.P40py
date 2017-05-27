@@ -1,0 +1,8 @@
+#!/usr/bin/env Python
+#-*- coding:utf-8 -*-
+#Author:yanshen
+b=list(range(1,10))
+print(b)
+print(b[:3])
+print(b[3:6])
+print(b[-3:])
